@@ -1,0 +1,30 @@
+{
+  "basics":{
+      "name":"RGV",
+      "designation": "director",
+      "mobile": "9595959595",
+      "email":"rgvcompany@gmail.com"
+  },
+  "career":{
+    "objective": "To pursue a challenging career and be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation"
+  },
+  "education":[
+    {
+      "degree":"B-Tech (CSE)",
+      "College":"Sir CRR Engg College",
+      "data":["2015-19","87%"]
+    },
+    {
+      "degree":"Board of Intermediate (M.P.C)",
+      "College":"Sri Chaitanya",
+      "data":["2013-15","95%"]
+    },
+    {
+      "degree":"S.S.C",
+      "College":"Z.P.High School",
+      "data":["2012-13","8.7%"]
+    }
+  ]
+
+
+}
